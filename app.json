@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "TiendaInclusiva",
+    "slug": "TiendaInclusiva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/img.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/img.png"
+    }
+  }
+}
